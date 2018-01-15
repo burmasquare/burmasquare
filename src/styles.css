@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+
+    background: #243238;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    xbackground: #243238 url(assets/images/bg.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+}
